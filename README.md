@@ -82,11 +82,7 @@ Hovering Over a Node shows its Degree Cardinality:
 </p>
 
 Here is a demonstration of the project web page in action:
-<p align="center">
-  <video src="IMAGES/Graphy.mp4" controls="controls" style="width: 100%; height: auto;">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/976560392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Graphy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ## Function Modifications on "generate_random_graph"
